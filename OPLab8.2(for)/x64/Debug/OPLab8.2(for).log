@@ -1,0 +1,5 @@
+﻿  OPLab8.2(for).cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab8\OPLab8.2(for)\OPLab8.2(for).cpp(23,12): warning C4477: "printf": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "int"
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab8\OPLab8.2(for)\OPLab8.2(for).cpp(23,12): message : рекомендуется использовать "%d" в строке форматирования
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab8\OPLab8.2(for)\OPLab8.2(for).cpp(23,12): message : рекомендуется использовать "%I32d" в строке форматирования
+  OPLab8.2(for).vcxproj -> C:\Users\Oleksandr\Desktop\лабивізуал\OPLab8\x64\Debug\OPLab8.2(for).exe
